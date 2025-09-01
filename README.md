@@ -5,16 +5,16 @@ These portfolio templates are for setting up your Telling Stories with Data site
 It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
 
 - Web page URL: https://aspdelus.github.io/Aspdelus-dataviz-portfolio/
-- This repository: https://github.com/Aspdelus/Aspdelus-dataviz-portfolio
+- This repository: https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/
 
 # Portfolio
 This section will showcase my data visualization work throughout the course.
 
-## Assignment 1: [Data Visualization Examples](dataviz-examples)
+## Assignment 1: [Data Visualization Examples](dataviz-examples.md)
 
-## Assignment 2: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final Project
 - [Part I](final-project-part-one)
