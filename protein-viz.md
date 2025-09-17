@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Makeover Monday — Protein Cost & Density (Vegetarian vs. Non-Vegetarian)
-description: Critique-by-design, sketches, user feedback, and two final Tableau vizzes.
-permalink: /makeover-protein/
+title: Protein Cost & Density Visualization
+permalink: /protein-viz/
 ---
 
 # Makeover Monday — Protein Cost & Density
