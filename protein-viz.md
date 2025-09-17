@@ -13,7 +13,7 @@ This page documents my critique-by-design process and the final redesigns compar
 ## 1) Original Visualization
 
 
-![Original visualization](makeovermonday_original.png)
+![Original visualization](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/makeovermonday_original.png)
 
 **Why I chose it**  
 The original chart mixed different comparison bases (e.g., cost per package vs. per serving) and used heavy imagery. This made it hard to answer a simple question (“Which sources are cheapest per equal amount of protein?”) at a glance. I wanted to standardize the metric, reduce clutter, and emphasize vegetarian vs. non-vegetarian comparisons.
