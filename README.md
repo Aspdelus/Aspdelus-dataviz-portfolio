@@ -14,6 +14,8 @@ This section will showcase my data visualization work throughout the course.
 
 ## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz.md)
 
+## Assignment 3: placeholder
+
 ## Final Project
 - [Part I](final-project-part-one)
 - [Part II](final-project-part-two)
