@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Aspdelus-dataviz-portfolio
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -10,17 +10,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This section will showcase my data visualization work throughout the course.
 
-## Assignment 1: [Data Visualization Examples](visualizing-government-debt.md)
+## Assignment 1: [Visualizing Government Debt](dataviz-examples.md)
 
-## Assignment 2: [Visualizing Government Debt](dataviz-examples.md)
-
-## Assignment 3&4: [Critique and redesign (MakeoverMonday)](MakeoverMonday.md)
+## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz.md)
 
 ## Final Project
 - [Part I](final-project-part-one)
 - [Part II](final-project-part-two)
 - [Part III](final-project-part-three)
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hi! My name is Aspdelus and I am currently pursuing MISM at Carnegie Mellon University. I am passionate about transforming complex data into compelling visual narratives that can inform decision-making and drive insights. With a background in Data Science, I bring a unique perspective to data storytelling that combines analytical rigor with creative visualization techniques.
