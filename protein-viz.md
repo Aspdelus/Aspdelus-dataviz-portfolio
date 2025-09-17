@@ -135,7 +135,7 @@ The original chart mixed different comparison bases (e.g., cost per package vs. 
 - Clear **ranking** and labels to make the takeaway immediate.  
 - A separate view for **protein density**, complementing the cost view.
 
-## Data, Tools & Reproducibility” 或 “Sources & Credits
+## Data, Tools & Reproducibility
 **Data source:** Makeover Monday – “The Cheapest Ways to Get Your Protein” (2023 W8) via Data.world.  
 URL: https://data.world/makeovermonday/2023w8
 
