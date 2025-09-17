@@ -4,6 +4,8 @@ title: Protein Cost & Density Visualization
 permalink: /protein-viz/
 ---
 
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Makeover Monday — Protein Cost & Density
 
 This page documents my critique-by-design process and the final redesigns comparing **cost per 30g protein** and **protein density (% of weight)**, with a focus on **Vegetarian vs. Non-Vegetarian** options.
