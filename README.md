@@ -14,7 +14,7 @@ This section will showcase my data visualization work throughout the course.
 
 ## Assignment 2: [Visualizing Government Debt](dataviz-examples.md)
 
-## Assignment 3&4: [Critique by Design](critique-by-design.md)
+## Assignment 3&4: [Critique and redesign (MakeoverMonday)](MakeoverMonday.md)
 
 ## Final Project
 - [Part I](final-project-part-one)
