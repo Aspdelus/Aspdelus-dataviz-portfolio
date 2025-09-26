@@ -1,42 +1,81 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+## High-Level Summary
+This project focuses on predicting and explaining the deterioration of protective coatings on steel bridges, with emphasis on Element 515 condition ratings from the National Bridge Inventory (NBI). Protective coatings are essential for preventing corrosion and extending bridge service life. However, deterioration rates vary widely depending on location, environment, and traffic exposure, which makes it difficult for owners to plan maintenance and repainting efficiently.  
 
-Text here...
+The goal of this project is to estimate the expected lifetime of protective coatings and to identify outlier bridges where coatings are failing faster than expected. By using publicly available NBI data, this analysis will provide insights into which factors—such as traffic, age, design, and environmental conditions—best predict coating condition over time. Ultimately, the work will support decision-making for bridge owners and policymakers, helping them prioritize repainting schedules, optimize budgets, and reduce lifecycle costs.  
+
+## Project Structure (Story Arc)
+1. **Introduction / Context**  
+   Importance of protective coatings for steel bridges and the challenge of deterioration monitoring.  
+2. **Problem Statement**  
+   Owners struggle to predict coating service life, resulting in costly premature repainting or risky delays.  
+3. **Data Foundation**  
+   Introduce NBI structure-level and element-level datasets, especially Element 515. Highlight key variables such as year built, average daily traffic (ADT), and design codes.  
+4. **Exploratory Insights**  
+   Visualize deterioration patterns in Pennsylvania as the starting case study. Show distribution of condition states and maps of bridge locations.  
+5. **Feature Development**  
+   Build engineered features: bridge age, traffic exposure, environmental proxies (urban vs rural, freeze–thaw cycles, coastal proximity).  
+6. **Predictive Modeling**  
+   Apply baseline regressions and survival analysis to estimate “time-to-repaint.” Include outlier detection to flag bridges degrading faster than predicted.  
+7. **Insights & Implications**  
+   Discuss how the model can inform repainting schedules and regional planning. Provide case studies of flagged outliers.  
+8. **Conclusion**  
+   Summarize the value of data-driven coating life prediction for cost savings and infrastructure resilience.  
+
+**One-Sentence Summary**  
+Predicting the service life of steel bridge protective coatings using NBI data to help owners prioritize repainting and reduce maintenance costs.  
+
+**User Stories**  
+- As a **bridge owner**, I want reliable indicators of coating deterioration so that I can plan repainting efficiently.  
+- As an **engineer/inspector**, I want to understand which factors accelerate coating failure to improve maintenance practices.  
+- As a **policy planner**, I want to compare performance across regions to better allocate funding and resources.  
+
+---
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+Two interactive sketches are embedded below.
+
+**Sketch 1 — PA 2025: Conditional hierarchical map (more layers)）**  
+<iframe src="./pa2025_map_plus.html" width="100%" height="620" style="border:1px solid #ccc;border-radius:6px;"></iframe>  
+<small> <a href="./pa2025_map_plus.html">pa2025_map_plus.html</a></small>
+
+**Sketch 2 — Prediction vs. Observation Comparison Chart (Bubble + Stroke)**  
+<iframe src="./pa2025_map_pred_vs_obs.html" width="100%" height="620" style="border:1px solid #ccc;border-radius:6px;"></iframe>  
+<small> <a href="./pa2025_map_pred_vs_obs.html">pa2025_map_pred_vs_obs.html</a></small>
+
+---
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The project will use publicly available datasets from the National Bridge Inventory (NBI). Two primary sources are:  
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+1. **NBI General Data** – Contains structure-level information such as state codes, latitude/longitude, year built, number of lanes, and average daily traffic. These variables provide the context for bridge use and environment.  
+2. **NBI Element-Level Data** – Focused on Element 515 (steel protective coatings), which records coating condition states (1–4) and the square footage of each condition per bridge per year. This dataset forms the foundation of the deterioration analysis.  
+
+The initial scope will focus on Pennsylvania, 2025 (CSV provided), with the option to expand to earlier years and additional states once the data pipeline is established. Using these datasets, we will clean, join, and normalize records by bridge ID and coated area. The data will then be used for exploratory analysis, feature engineering, and predictive modeling of coating service life.  
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| National Bridge Inventory (General) | [https://www.fhwa.dot.gov/bridge/nbi.cfm](https://www.fhwa.dot.gov/bridge/nbi.cfm) | Structure-level bridge information: ID, location, design, traffic, year built |
+| National Bridge Inventory (Element-Level) | [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov) | Element 515 condition data including protective coating deterioration |
+| Pennsylvania 2025 CSV (Provided) | (link to GitHub/Box) | State-specific dataset for pilot analysis |
+
+---
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+This project will be developed using a combination of **Tableau** (for visualization) and **Shorthand** (for storytelling and interactive presentation). Tableau will allow us to create maps, scatterplots, survival curves, and feature importance graphics. Shorthand will be used to structure the narrative, integrate visuals, and make the final project interactive and accessible to the target audience.  
+
+The final deliverable will be a GitHub-hosted page with interactive visualizations embedded, providing both technical insights and an engaging narrative.
+
+---
 
 ## References
-_List any references you used here._
+- National Bridge Inventory, Federal Highway Administration.  
+- AASHTO, *Specifications for the National Bridge Inventory Elements*.  
+- *Good Charts*, Scott Berinato, Chapters 5–6, 8.  
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
