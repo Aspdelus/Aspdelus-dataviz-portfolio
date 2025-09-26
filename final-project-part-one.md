@@ -62,7 +62,7 @@ The initial scope will focus on Pennsylvania, 2025 (CSV provided), with the opti
 |------|-----|-------------|
 | National Bridge Inventory (General) | [https://www.fhwa.dot.gov/bridge/nbi.cfm](https://www.fhwa.dot.gov/bridge/nbi.cfm) | Structure-level bridge information: ID, location, design, traffic, year built |
 | National Bridge Inventory (Element-Level) | [https://infobridge.fhwa.dot.gov](https://infobridge.fhwa.dot.gov) | Element 515 condition data including protective coating deterioration |
-| Pennsylvania 2025 CSV (Provided) | (link to GitHub/Box) | State-specific dataset for pilot analysis |
+| Pennsylvania 2025 CSV (Provided) | [(link to GitHub)](https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/blob/main/PA%20Bridge%20Site%202025.csv) | State-specific dataset for pilot analysis |
 
 ---
 
