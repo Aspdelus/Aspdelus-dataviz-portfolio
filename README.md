@@ -10,9 +10,9 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This section will showcase my data visualization work throughout the course.
 
-## Assignment 1: [Visualizing Government Debt](dataviz-examples.md)
+## Assignment 1: [Visualizing Government Debt](dataviz-examples)
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz.md)
+## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz)
 
 ## Assignment 3: placeholder
 
