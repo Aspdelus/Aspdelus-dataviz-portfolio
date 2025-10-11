@@ -1,10 +1,4 @@
----
-layout: page
-title: Protein Cost & Density Visualization
-permalink: /protein-viz/
----
-
-| [home page](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Visualizing Government Debt](/Aspdelus-dataviz-portfolio/dataviz-examples) | [Critique and redesign (MakeoverMonday)](/Aspdelus-dataviz-portfolio/protein-viz) | [final project I](/Aspdelus-dataviz-portfolio/final-project-part-one) | [final project II](/Aspdelus-dataviz-portfolio/final-project-part-two) | [final project III](/Aspdelus-dataviz-portfolio/final-project-part-three) |
+| [home page](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Makeover Monday — Protein Cost & Density
 
@@ -164,5 +158,5 @@ This assignment taught me the importance of:
 ---
 
 **Navigation:**  
-[← Previous: Government Debt](/Aspdelus-dataviz-portfolio/dataviz-examples) | [Back to Home](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Next: Final Project →](/Aspdelus-dataviz-portfolio/final-project-part-one)
+[← Previous: Government Debt](dataviz-examples) | [Back to Home](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Next: Final Project →](final-project-part-one)
 
