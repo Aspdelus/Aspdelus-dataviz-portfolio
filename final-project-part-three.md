@@ -1,13 +1,14 @@
 | [home page](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Final Project — Part III
+# Final Project — Part III  
 
 ## *Bridges Beneath the Paint: Predicting the Hidden Decay*  
 
 ---
 
-🔗 [**View Final Shorthand Story**](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)  
-🔗 [**View GitHub Repository**](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
+**Links:**
+- [View Final Shorthand Story](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)  
+- [View GitHub Repository](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
 
 ---
 
@@ -98,11 +99,11 @@ Even after submitting Part III, I find myself mentally redesigning elements. Sho
 The complete project is accessible through multiple platforms to serve different audiences and use cases:
 
 **Primary Deliverable: Shorthand Data Story**  
-🔗 [**Bridges Beneath the Paint: Predicting the Hidden Decay**](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)  
+[Bridges Beneath the Paint: Predicting the Hidden Decay](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)  
 This is the main public-facing narrative that integrates all visualizations, imagery, and written content into an interactive scrolling experience. The story is published and publicly accessible for stakeholders, educators, and the general public.
 
 **Supporting Repository: GitHub Portfolio**  
-🔗 [**GitHub Repository**](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)  
+[GitHub Repository](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)  
 The GitHub portfolio hosts all three parts of the project (Part I, Part II, and Part III), embedded Tableau visualizations, and supplemental files. This serves as the permanent archive and allows technical audiences to explore the project development process.
 
 **Additional Materials:**

@@ -7,21 +7,21 @@ Welcome to my data visualization portfolio! This site showcases my work from the
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🏗️ [Bridge Coating Deterioration Prediction](final-project-part-three.md)
+### [Bridge Coating Deterioration Prediction](final-project-part-three.md)
 **Final Project** | *Bridges Beneath the Paint: Predicting the Hidden Decay*
 
 An interactive data story that uses National Bridge Inventory data to predict protective coating deterioration on steel bridges. This project combines predictive analytics with visual storytelling to help infrastructure decision-makers optimize maintenance scheduling and reduce costs.
 
-- 🔗 [View Final Story on Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)
-- 📄 [Part I: Project Outline](final-project-part-one.md)
-- 📄 [Part II: User Research & Storyboards](final-project-part-two.md)
-- 📄 [Part III: Final Deliverable & Reflection](final-project-part-three.md)
+- [View Final Story on Shorthand](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/yvXnS0rSHU)
+- [Part I: Project Outline](final-project-part-one.md)
+- [Part II: User Research & Storyboards](final-project-part-two.md)
+- [Part III: Final Deliverable & Reflection](final-project-part-three.md)
 
 ---
 
-## 📈 Course Assignments
+## Course Assignments
 
 ### [Assignment 1: Visualizing Government Debt](dataviz-examples.md)
 Exploring government debt-to-GDP ratios across countries using interactive Tableau visualizations. This assignment demonstrates how different visualization techniques can reveal patterns in economic data.
@@ -31,7 +31,7 @@ A redesign of a MakeoverMonday visualization comparing protein sources by cost a
 
 ---
 
-## 👤 About Me
+## About Me
 
 Hi! I'm **Jinxuan Zhang (Aspdelus)**, a Master's student in Information Systems Management at Carnegie Mellon University. I'm passionate about using data visualization to bridge the gap between complex analytics and actionable insights.
 
@@ -40,13 +40,13 @@ Hi! I'm **Jinxuan Zhang (Aspdelus)**, a Master's student in Information Systems 
 **Interests:** When I'm not working with data, I enjoy JPop music and exploring how cultural narratives intersect with data-driven storytelling.
 
 **Contact:**
-- 📧 Email: [Your CMU Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@Aspdelus](https://github.com/Aspdelus)
+- Email: [Your CMU Email]
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [@Aspdelus](https://github.com/Aspdelus)
 
 ---
 
-## 🎯 Skills & Tools
+## Skills & Tools
 
 This portfolio demonstrates proficiency in:
 - **Visualization Tools:** Tableau, Python (Matplotlib, Seaborn), Shorthand
@@ -56,11 +56,11 @@ This portfolio demonstrates proficiency in:
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
-- 🌐 **Portfolio Website:** [aspdelus.github.io/Aspdelus-dataviz-portfolio](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
-- 📁 **GitHub Repository:** [github.com/Aspdelus/Aspdelus-dataviz-portfolio](https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/)
-- 🎓 **Course:** [Telling Stories with Data, CMU Heinz College](https://www.heinz.cmu.edu/)
+- **Portfolio Website:** [aspdelus.github.io/Aspdelus-dataviz-portfolio](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
+- **GitHub Repository:** [github.com/Aspdelus/Aspdelus-dataviz-portfolio](https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/)
+- **Course:** [Telling Stories with Data, CMU Heinz College](https://www.heinz.cmu.edu/)
 
 ---
 
