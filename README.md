@@ -7,6 +7,14 @@ Welcome to my data visualization portfolio! This site showcases my work from the
 
 ---
 
+## Quick Links
+
+- **Portfolio Website:** [aspdelus.github.io/Aspdelus-dataviz-portfolio](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
+- **GitHub Repository:** [github.com/Aspdelus/Aspdelus-dataviz-portfolio](https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/)
+- **Course:** [Telling Stories with Data, CMU Heinz College](https://www.heinz.cmu.edu/)
+  
+---
+
 ## Featured Projects
 
 ### [Bridge Coating Deterioration Prediction](final-project-part-three.md)
@@ -40,15 +48,5 @@ Hi! I'm **Jinxuan Zhang (Aspdelus)**, a Master's student in Information Systems 
 **Contact:**
 - Email: jinxuan2@andrew.cmu.edu
 - GitHub: [@Aspdelus](https://github.com/Aspdelus)
-
----
-
-## Quick Links
-
-- **Portfolio Website:** [aspdelus.github.io/Aspdelus-dataviz-portfolio](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/)
-- **GitHub Repository:** [github.com/Aspdelus/Aspdelus-dataviz-portfolio](https://github.com/Aspdelus/Aspdelus-dataviz-portfolio/)
-- **Course:** [Telling Stories with Data, CMU Heinz College](https://www.heinz.cmu.edu/)
-
----
 
 <sub>© 2025 Jinxuan Zhang | Created for 94-870 Telling Stories with Data | Carnegie Mellon University</sub>
