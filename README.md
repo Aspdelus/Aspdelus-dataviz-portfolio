@@ -10,16 +10,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This section will showcase my data visualization work throughout the course.
 
-## Assignment 1: [Visualizing Government Debt](dataviz-examples)
+## Assignment 1: [Visualizing Government Debt](dataviz-examples.md)
 
-## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz)
+## Assignment 2: [Critique and redesign (MakeoverMonday)](protein-viz.md)
 
 ## Assignment 3: placeholder
 
 ## Final Project
-- [Part I](final-project-part-one)
-- [Part II](final-project-part-two)
-- [Part III](final-project-part-three)
+- [Part I](final-project-part-one.md)
+- [Part II](final-project-part-two.md)
+- [Part III](final-project-part-three.md)
 
 # About me
 Hi! My name is Aspdelus and I am currently pursuing MISM at Carnegie Mellon University. I am passionate about transforming complex data into compelling visual narratives that can inform decision-making and drive insights. With a background in Data Science, I bring a unique perspective to data storytelling that combines analytical rigor with creative visualization techniques.
