@@ -37,22 +37,9 @@ Hi! I'm **Jinxuan Zhang (Aspdelus)**, a Master's student in Information Systems 
 
 **Background:** With experience in Data Science and a focus on infrastructure analytics, I bring a unique perspective to data storytelling that combines analytical rigor with creative visualization techniques.
 
-**Interests:** When I'm not working with data, I enjoy JPop music and exploring how cultural narratives intersect with data-driven storytelling.
-
 **Contact:**
-- Email: [Your CMU Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: jinxuan2@andrew.cmu.edu
 - GitHub: [@Aspdelus](https://github.com/Aspdelus)
-
----
-
-## Skills & Tools
-
-This portfolio demonstrates proficiency in:
-- **Visualization Tools:** Tableau, Python (Matplotlib, Seaborn), Shorthand
-- **Data Analysis:** Predictive modeling, feature engineering, statistical analysis
-- **Storytelling:** Narrative design, user research, audience-centered communication
-- **Technical Skills:** GitHub Pages, Jekyll, Markdown, data cleaning and transformation
 
 ---
 
