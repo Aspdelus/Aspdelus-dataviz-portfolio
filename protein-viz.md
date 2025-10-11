@@ -136,6 +136,33 @@ The original chart mixed different comparison bases (e.g., cost per package vs. 
 - A separate view for **protein density**, complementing the cost view.
 
 ## Data, Tools & Reproducibility
-**Data source:** Makeover Monday – “The Cheapest Ways to Get Your Protein” (2023 W8) via Data.world.  
-URL: https://data.world/makeovermonday/2023w8
+
+**Data Source:** Makeover Monday – "The Cheapest Ways to Get Your Protein" (2023 W8) via Data.world  
+**URL:** <https://data.world/makeovermonday/2023w8>
+
+**Tools Used:**
+- Tableau Public for interactive visualizations
+- Data.world for data sourcing
+- Stephen Few's Data Visualization Effectiveness Profile (DVEP) for critique framework
+
+**Skills Demonstrated:**
+- Visualization critique using established frameworks
+- Data standardization and metric design
+- Audience-focused redesign
+- Interactive dashboard creation
+
+---
+
+## Reflection
+
+This assignment taught me the importance of:
+1. **Standardized metrics** — Ensuring fair comparisons by normalizing data
+2. **Audience awareness** — Designing for specific user needs (cost-conscious consumers)
+3. **Visual clarity** — Removing unnecessary elements to focus on key messages
+4. **Iterative design** — Using critique frameworks to systematically improve visualizations
+
+---
+
+**Navigation:**  
+[← Previous: Government Debt](dataviz-examples) | [Back to Home](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Next: Final Project →](final-project-part-one)
 

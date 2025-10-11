@@ -77,5 +77,10 @@ The final deliverable will be a GitHub-hosted page with interactive visualizatio
 ## References
 - National Bridge Inventory, Federal Highway Administration.  
 - AASHTO, *Specifications for the National Bridge Inventory Elements*.  
-- *Good Charts*, Scott Berinato, Chapters 5–6, 8.  
+- *Good Charts*, Scott Berinato, Chapters 5–6, 8.
+
+---
+
+**Navigation:**  
+[← Previous: Critique by Design](protein-viz) | [Back to Home](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Next: Part II →](final-project-part-two)  
 

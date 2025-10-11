@@ -1,6 +1,20 @@
 | [home page](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Data visualization examples
+# Visualizing Government Debt
+
+**Assignment 1** | Exploring global debt-to-GDP ratios through interactive visualization
+
+---
+
+## Overview
+
+This assignment explores government debt data across countries using Tableau. The visualization demonstrates how to effectively communicate economic trends and enable cross-country comparisons through interactive dashboards.
+
+**Key Learning:** Understanding how visualization choices impact data interpretation and audience engagement.
+
+---
+
+## Interactive Visualization
 <div class='tableauPlaceholder' id='viz1757142252775' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -33,3 +47,25 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+---
+
+## Key Insights
+
+This visualization allows viewers to:
+- **Compare** debt-to-GDP ratios across multiple countries
+- **Explore trends** over time with interactive filtering
+- **Identify patterns** in government fiscal policy across regions
+
+---
+
+## Tools & Techniques
+
+- **Tool:** Tableau Public
+- **Data Source:** OECD Government Debt Data
+- **Skills Demonstrated:** Interactive dashboard design, economic data visualization, cross-country comparison
+
+---
+
+**Navigation:**  
+[← Back to Home](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Next: Critique by Design →](protein-viz)
