@@ -1,9 +1,3 @@
----
-layout: page
-title: Protein Cost & Density Visualization
-permalink: /protein-viz/
----
-
 | [home page](https://aspdelus.github.io/Aspdelus-dataviz-portfolio/) | [Visualizing Government Debt](dataviz-examples) | [Critique and redesign (MakeoverMonday)](protein-viz) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Makeover Monday — Protein Cost & Density
